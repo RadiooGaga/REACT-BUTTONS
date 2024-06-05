@@ -19,7 +19,7 @@
   justify-content:space-around;
   width: auto;
   background-color: rgb(150, 152, 154);
-  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 #subtractButton, #addButton {
