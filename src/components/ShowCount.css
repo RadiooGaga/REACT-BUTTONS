@@ -7,32 +7,5 @@
     background-color: rgb(150, 152, 154);
 }
 
-#divButtons {
-    display: flex;
-    justify-content:space-around;
-    width: auto;
-    background-color: rgb(150, 152, 154);
-    margin-bottom: 30px;
-}
 
-#subtractButton, #addButton {
-    min-width: 120px;
-    height: 50px;
-    background-color: whitesmoke;
-    cursor: pointer;
-    border-style: none;
-    border-radius: 4px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #252525;
-}
-
-#subtractButton:hover, #addButton:hover {
-    background-color: #252525;
-    color: whitesmoke;
-}
-
-#subtractButton:active, #addButton:active {
-    color: rgb(225, 116, 154);
-}
 
