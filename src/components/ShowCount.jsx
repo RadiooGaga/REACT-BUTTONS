@@ -8,7 +8,6 @@ const ShowCount = (props) => {
         <h2> You clicked here <span style={{ color: props.color }}>{props.number}</span> times</h2>
     </div>
   )
-  
 }
 
 export default ShowCount;
