@@ -16,7 +16,8 @@
 
 #divButtons {
   display: flex;
-  justify-content:space-around;
+  justify-content:center;
+  gap: 8em;
   width: auto;
   background-color: rgb(150, 152, 154);
   padding-bottom: 30px;
